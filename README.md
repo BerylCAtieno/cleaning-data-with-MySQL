@@ -2,14 +2,15 @@
 
 ## Overview
 
-In today's dynamic global economy, workforce fluctuations are not uncommon. Between 2020 and 2024 hundreds of thousands of employee layoffs have occured around the world.Understanding the patterns and underlying factors behind these layoffs is crucial for businesses, employees, jobseekers, and policymakers alike. In this project, I explore a comprehensive dataset capturing details of employee layoffs from diverse industries and regions around the world.
+In today's dynamic global economy, workforce fluctuations are not uncommon. Between 2020 and 2024 hundreds of thousands of employee have lost their jobs to layoffs around the world.Understanding the patterns and underlying factors behind these layoffs is crucial for businesses, employees, jobseekers, and policymakers alike. In this project, I explore a comprehensive dataset capturing details of employee layoffs from diverse industries and regions around the world.
 
 ## Objective
 The primary objective of this project is to showcase my proficiency in data cleaning using MySQL. I aim to demonstrate the ability to cleanse, transform, and prepare raw data for analysis, enabling extraction of meaningful insights.
 
 ## About the Dataset
-The dataset contains details of employee layoffs by companies in different cities and across industries. 
-Source: [AlexTheAnalyst](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv)
+The dataset contains details of employee layoffs by companies in different cities and across industries, as reported by Bloomberg, San Francisco Business Times, TechCrunch, and The New York Times
+
+Source: [Layoffs Dataset - Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022/data)
 
 ### Data Dictionary
 
